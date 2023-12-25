@@ -1,7 +1,6 @@
 // config.js
 import { el } from 'element-plus/es/locales.mjs';
 import { ref, reactive } from 'vue';
-// export const SERVER_URL = 'https://manager.iroiyxin.cn:8088';
 export const SERVER_URL = 'https://127.0.0.1:8088';
 export const _userAgent = /Mobile/i.test(navigator.userAgent);
 const
